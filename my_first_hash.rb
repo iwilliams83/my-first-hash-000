@@ -1,6 +1,7 @@
-def my_hash
+def my_hash(h)
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
+h = {"Batman" => "Bruce Wayne",
+"Wonder Woman" => "Diana Prince", "Superman" => "Clark Kent"}
   
 end
 
